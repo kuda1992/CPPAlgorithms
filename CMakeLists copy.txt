@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(Week3)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Week3 main.cpp change.cpp factional_knapsack.cpp covering_segments.cpp binary_search.cpp)
