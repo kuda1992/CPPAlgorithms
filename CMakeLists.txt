@@ -35,7 +35,7 @@ add_executable(
         DataStructures/basic-data-structures/process-packages.cpp
         DataStructures/priority-queues-and-disjoint-sets/job_queue.cpp
         DataStructures/priority-queues-and-disjoint-sets/build_heap.cpp
-        DataStructures/priority-queues-and-disjoint-sets/hash_chains.cpp
+        DataStructures/hash_tables/hash_chains.cpp
 
         techiedelight/map.cpp
         techiedelight/tree.cpp
@@ -46,4 +46,4 @@ add_executable(
         techiedelight/find-pair-with-given-sum-array.cpp
         techiedelight/in-place-merge-two-sorted-arrays.cpp
         techiedelight/group-elements-array-based-first-occurrence.cpp
-)
+        Fundamentals/AVLTree.cpp DataStructures/tree_traversals/tree-orders.cpp DataStructures/tree_traversals/BinarySearchTree.cpp DataStructures/tree_traversals/BinarySearchTree.h DataStructures/tree_traversals/trees_test.cpp DataStructures/priority-queues-and-disjoint-sets/union_find.cpp DataStructures/priority-queues-and-disjoint-sets/UnionFindClient.cpp)

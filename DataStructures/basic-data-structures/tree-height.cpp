@@ -47,7 +47,7 @@ int computeHeight_fast(int n, std::vector<Node> &parent) {
 }*/
 
 
-int main_with_large_stack_space() {
+/*int main_with_large_stack_space() {
 
     std::ios_base::sync_with_stdio(0);
 
@@ -79,7 +79,7 @@ int main_with_large_stack_space() {
 
     std::cout << maxHeight << std::endl;
     return 0;
-}
+}*/
 
 /*
 int main(int argc, char **argv) {

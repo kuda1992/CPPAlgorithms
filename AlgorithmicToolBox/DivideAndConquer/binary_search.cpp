@@ -26,6 +26,7 @@ int linear_search(const std::vector<int> &a, int x) {
 }
 
 
+/*
 int main() {
     long n;
     std::cin >> n;
@@ -49,3 +50,4 @@ int main() {
         std::cout << binary_search(a, b[i]) << ' ';
     }
 }
+*/
