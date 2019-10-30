@@ -1,2 +1,2 @@
-# CPPAlgorithms
+# C++ Algorithms
 bst
