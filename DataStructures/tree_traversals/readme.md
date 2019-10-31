@@ -26,7 +26,7 @@ The search operation allows to search for an existing element in the binary sear
                 continue;
             } else if(data > current->data) {
                 // go to the right
-                current = current->left;
+                current = current->right;
                 continue;
             }
             
