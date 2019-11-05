@@ -46,4 +46,4 @@ add_executable(
         techiedelight/find-pair-with-given-sum-array.cpp
         techiedelight/in-place-merge-two-sorted-arrays.cpp
         techiedelight/group-elements-array-based-first-occurrence.cpp
-        Fundamentals/AVLTree.cpp DataStructures/tree_traversals/tree-orders.cpp DataStructures/tree_traversals/BinarySearchTree.cpp DataStructures/tree_traversals/BinarySearchTree.h DataStructures/tree_traversals/trees_test.cpp DataStructures/priority-queues-and-disjoint-sets/union_find.cpp DataStructures/priority-queues-and-disjoint-sets/UnionFindClient.cpp)
+        Fundamentals/AVLTree.cpp DataStructures/tree_traversals/tree-orders.cpp DataStructures/tree_traversals/BinarySearchTree.cpp DataStructures/tree_traversals/BinarySearchTree.h DataStructures/tree_traversals/trees_test.cpp DataStructures/priority-queues-and-disjoint-sets/union_find.cpp DataStructures/priority-queues-and-disjoint-sets/UnionFindClient.cpp DataStructures/basic-data-structures/LinkedList.cpp DataStructures/basic-data-structures/LinkedListTest.cpp DataStructures/basic-data-structures/Stack.cpp DataStructures/basic-data-structures/StackTest.cpp)

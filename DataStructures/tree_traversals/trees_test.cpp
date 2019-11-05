@@ -4,6 +4,7 @@
 #include "BinarySearchTree.cpp"
 #include <functional> //less<T> <-> operator<
 
+/*
 int main() {
 
     BinarySearchTree<int> tree;
@@ -25,3 +26,4 @@ int main() {
 
 }
 
+*/

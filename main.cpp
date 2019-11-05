@@ -54,8 +54,8 @@ int bottom_up_fibonacci(int n) {
 
 }
 
-/*
-int main() {
+
+/*int main() {
     std::vector<int> coins = {6, 5, 1};
     std::cout << bottom_up_fibonacci(10) << std::endl;
     return 0;
